@@ -1,0 +1,8 @@
+name = "appweb"
+
+[build]
+command = "npm run build"
+pages_build_output_dir = "out"
+
+[dev]
+command = "npm run dev"
